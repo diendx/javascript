@@ -5,7 +5,7 @@ function viralAdvertising(n) {
   while(n>0){
   let peopleShare = Math.floor(peopleSee /2);
   peopleSee = peopleShare*3;
-  likes = likes+peopleShare;
+  likes = likes + peopleShare;
   n--;
   
   }
