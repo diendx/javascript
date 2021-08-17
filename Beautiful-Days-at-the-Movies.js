@@ -13,3 +13,6 @@ function beautifulDays(i, j, k) {
 }
 
 // https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
+
+
+//  đảo chuỗi : https://techmaster.vn/posts/35015/3-cach-de-dao-nguoc-1-chuoi-trong-javascript
